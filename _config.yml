@@ -29,7 +29,7 @@ color:
   primary-rgb: "56, 149, 211" 
   secondary: 1261A0 
   secondary-dark: 072F5F 
-  tertiary: EDCD5A # For links on top of the primary/secondary colours
+  tertiary: FFDC5C # For links on top of the primary/secondary colours
 
 # Footer settings
 footer:

@@ -187,6 +187,7 @@ section.success {
 
 section.success a {
     color: #{{ site.color.tertiary }};
+    text-decoration: underline;
 }
 
 @media(max-width:767px) {
@@ -367,6 +368,7 @@ footer h3 {
 
 footer a {
     color: #{{ site.color.tertiary }};
+    text-decoration: underline;
 }
 
 footer .footer-above {
