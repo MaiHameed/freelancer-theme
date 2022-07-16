@@ -1,1 +1,6 @@
-Personal Website - Forked from https://github.com/jeromelachaud/freelancer-theme
+# Portfolio
+
+Showcasing my projects, updated whenever I feel like it.
+
+- Hosted using Netlify
+- Domain bought from Namecheap
