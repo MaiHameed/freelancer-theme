@@ -1,8 +1,8 @@
 # Site settings
 title: Mai Hameed
 email: mabdelhameed@ryerson.ca
-url: http://www.maihameed.me
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+url: http://www.maihameed.com
+description: "Mai Hameed's Personal Software Dev Portfolio"
 keywords: "Mai, Hameed, software, developer, web, dev, devops, backend, cloud"
 skills: "Software Developer"
 meta_author: Hameed Mai
